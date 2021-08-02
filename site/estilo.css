@@ -13,15 +13,25 @@ h1{color: black;
     }
 
 
-section.beef {background-color:gray;width:90%; margin-right: auto; margin-left: auto;margin-top:25px;margin-bottom: 10px ;border:1px solid black;position:relative;}
-section.chicken{background-color: gray;width:90% ;margin-right: auto;margin-left: auto;margin-top:25px;margin-bottom: 10px ; border:1px solid black;position:relative;}        
-section.suchi{background-color: gray;width:90% ;margin-right: auto;margin-left: auto;margin-top:25px;margin-bottom: 10px ;border: 1px solid black; position:relative;} 
-#beef{background-color:#cb0000; display:inline;}
-#chicken{background-color: pink; display: inline;}
+section.beef {background-color:gray;width:90%; margin-right:auto; margin-left: auto;margin-top:25px;margin-bottom: 10px ;border:1px solid black;position: relative;}
+section.chicken{background-color: gray;width:90% ;margin-right:auto;margin-left: auto;margin-top:25px;margin-bottom: 10px ; border:1px solid black;position: relative;}        
+section.suchi{background-color: gray;width:90% ;margin-right:auto;margin-left: auto;margin-top:25px;margin-bottom: 10px ;border:1px solid black;position: relative;} 
+#beef{background-color:#cb0000;display: inline;}
+#chicken{background-color: pink;display: inline;}
 #suchi{background-color:#c7b446;display: inline;}
 p { width: 90%, text-align:center;margin: 40px;font-size: 1em;}
+h2{position:absolute;
+	top:-16.5px;
+	right:0px;
+	border-left :1px solid black;
+	border-bottom: 1px solid black; 
+	width:5em;
+	text-align:center;
+	font-size: 1.25em;
+	box-sizing: border-box;}
 
-h2{position: absolute;right:0;top:-17px; border:1px solid black;width: 150px;text-align: center;font-size: 1.25em;}
+
+
 
 
 
